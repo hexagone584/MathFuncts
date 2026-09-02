@@ -1,0 +1,3 @@
+/Users/jackieyang/Downloads/MathFuncts/build/CMakeFiles/MathFuncts.dir
+/Users/jackieyang/Downloads/MathFuncts/build/CMakeFiles/edit_cache.dir
+/Users/jackieyang/Downloads/MathFuncts/build/CMakeFiles/rebuild_cache.dir
