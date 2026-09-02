@@ -81,7 +81,7 @@ int main() {
     double yVal = 0;
 
     for (int i = 0; i < 5; i++) {
-        double rotation = std::atan(std::pow(2,-i)) * 180 / std::numbers::pi; //is it rly PI that messes me up?
+        double rotation = std::atan(std::pow(2,-i)) * 180 / PI; //is it rly PI that messes me up?
         cosinefactor *= std::cos(std::atan(std::pow(2,-i)));
 
         if (current < target) {
