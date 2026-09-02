@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/jackieyang/Downloads/MathFuncts/build",
-  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -o CMakeFiles/MathFuncts.dir/main.cpp.o -c /Users/jackieyang/Downloads/MathFuncts/main.cpp",
-  "file": "/Users/jackieyang/Downloads/MathFuncts/main.cpp",
-  "output": "/Users/jackieyang/Downloads/MathFuncts/build/CMakeFiles/MathFuncts.dir/main.cpp.o"
-}
-]
